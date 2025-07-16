@@ -1,5 +1,4 @@
-## analytics-portfolio
-### Carlo Cabusora
+### Anlaytics Portfolio - Carlo Cabusora
 
 Welcome! This repo showcases projects I've completed using R, Python, Excel, and Power BI.
 
