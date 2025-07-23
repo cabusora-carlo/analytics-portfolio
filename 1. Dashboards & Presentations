@@ -1,1 +1,20 @@
+# 📊 Dashboards & Presentations
+
+This folder contains visual analytics projects and presentation materials created using **Power BI** and other communication tools. Each project summarizes key findings and demonstrates the ability to turn raw data into clear, compelling insights for stakeholders.
+
+## Contents
+
+- `imdb_dashboard_summary.pdf`  
+  A Power BI dashboard exploring trends in IMDB movie ratings, genres, and release patterns.
+
+- `seattle_crime_dashboard.docx`  
+  A write-up describing a Power BI dashboard that visualizes Seattle crime data from 2020 by neighborhood and crime type.
+
+- `nonprofit_final_presentation.png`  
+  A screenshot of the final presentation slide for a project supporting a nonprofit health organization. Focuses on data-driven service delivery insights.
+
+## Skills Demonstrated
+- Data visualization (Power BI)
+- Executive summary writing
+- Storytelling with data
 
