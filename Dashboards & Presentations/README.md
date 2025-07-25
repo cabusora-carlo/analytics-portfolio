@@ -4,7 +4,7 @@ This folder contains visual analytics projects and presentation materials create
 
 ## Contents
 
-- `1. Healthy_Learners_Presentation.jpg`  
+- `Healthy_Learners_Presentation.jpg`  
   A screenshot of the final presentation slide for a project supporting a nonprofit health organization. A poster board collecting key visuals describing analysis scripted in R that answered client questions. Focuses on data-driven service delivery insights.
 
 - `IMDB_Tech_Report.pdf`  
