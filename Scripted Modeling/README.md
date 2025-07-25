@@ -19,5 +19,5 @@ This folder contains statistical and predictive models written in **R** and **Py
 - R scripting and Python notebooks
 - Code-based data exploration
 - Non-linear modeling techniques
-- External API usage
+- External API application
 
