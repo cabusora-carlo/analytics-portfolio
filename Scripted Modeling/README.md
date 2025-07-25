@@ -5,8 +5,7 @@ This folder contains statistical and predictive models written in **R** and **Py
 ## Contents
 
 - `regression_model.R`  
-  A script written in R that applies multivariate linear regression to explore relationships between predictors and outcome variables. Uses an API to scrub customer feedback and give written text structure for analysis.
-  *(Uses Sales_Training.csv)
+  A script written in R that applies multivariate linear regression to explore relationships between predictors and outcome variables. Uses an API to scrub customer feedback and give written text structure for analysis. (Uses Sales_Training.csv)
 
 - `spline_modeling_1.ipynb`  
   A Jupyter Notebook demonstrating the use of spline functions to model non-linear relationships in data.
